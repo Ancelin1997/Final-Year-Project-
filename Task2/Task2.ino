@@ -1,6 +1,5 @@
 const int hallPin = 12;     
-const int ledPin =  13;
-  int enable2 = 9;
+int enable2 = 9;
 int enable1=8;
 int in3 = 10;
 int in4 = 11;
